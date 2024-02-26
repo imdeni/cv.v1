@@ -81,7 +81,7 @@ export default {
 
         <div class=" grid grid-cols-1 gap-1 place-content-center h-8 m-1">
             <a
-            href="https://mail.google.com/mail/u/1/#inbox/FMfcgzGsmWsLpsZhqMHxMDWjSwtvvQrP?compose=CllgCKCGDWVBSwxhFSnrVlrgcHTrdpvXMzsKWwbPqFsPQfkdvMBXxnTrpPvGGvQqdwcRXfzzKLB"
+            href="https://mail.google.com/mail/u/0/?fs=1&to=im.deniachmad@gmail.com&tf=cm"
             target="_blank"
             >
             <div class="email rounded-full hover:bg-gradient-to-r from-black to-gray-500">
@@ -94,11 +94,11 @@ export default {
         </div>
 
         <div class=" grid grid-cols-1 gap-1 place-content-center h-8 m-1">
-            <a href="https://wa.me/+6285600163725" target="_blank">
+            <a href="https://wa.me/+6285803619114" target="_blank">
             <div class="no_hp-i rounded-full hover:bg-gradient-to-r from-black to-gray-500">
                 <div class="isi-email hides grid grid-cols-2 gap-1 w-64">
                 <Icon icon="mdi:telephone" color="#fff" width="24" height="24" />
-                <p>+6285600163725</p>
+                <p>+6285803619114</p>
                 </div>
             </div>
             </a>
@@ -106,12 +106,12 @@ export default {
 
         <div class="jarak-bawah grid grid-cols-1 gap-1 place-content-center h-8 m-1">
             <!-- <a href="https://github.com/deni1297" target="_blank"> -->
-              <a href="">
+              <a href="https://github.com/imdeni" target="_blank">
             <div class="github rounded-full hover:bg-gradient-to-r from-black to-gray-500">
                 <div class="isi-email hides grid grid-cols-2 gap-1 w-64">
                 <Icon icon="mdi:github" color="#fff" width="24" height="24" />
                 <!-- <p>https://github.com/de***7</p> -->
-                <p class="hides">Sedang&nbspdalam&nbspperbaikan...</p>
+                <p class="hides">imdeni</p>
                 </div>
             </div>
           </a>

@@ -10,5 +10,9 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
-  }
+  },
+  base:`/cv1/`,
+  server: {
+    port: 3001,
+  },
 })
