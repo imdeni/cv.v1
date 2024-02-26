@@ -1,0 +1,4 @@
+/*NAV*/
+.nav{position:fixed;width:300px;height:300px;margin-top:-133px;margin-left:-330px;background-color:#343541;border:#343541 2px solid}.nav-text{color:#181818;font-weight:700;font-size:18px;padding:10px}.btn{width:100%}
+/*END*/
+@media (min-width: 1023px) and (max-width: 1025px) and (min-height: 599px) and (max-height: 601px){.nav{left:350px;width:235px}.kiri{margin-left:-12px}}
